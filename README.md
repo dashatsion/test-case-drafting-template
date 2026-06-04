@@ -1,5 +1,9 @@
 # Test Case Drafting Template
 
+This repository was shared during my QA Mindset talk.
+📎[QA_Mindset_Dasha_Tsion.pdf](https://github.com/user-attachments/files/28602043/QA_Mindset_Dasha_Tsion.pdf)
+
+
 A reusable AI skill template for drafting practical QA test cases from product context.
 
 This template helps QA engineers generate consistent, product-aware manual test cases using specs, docs, PRs, code context, browser observations, and test management context.
