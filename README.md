@@ -2,7 +2,7 @@
 
 This repository contains the example skill demonstrated during the QA Mindset presentation.
 
-📎[View Presentation]([QA_Mindset_Dasha_Tsion.pdf](https://github.com/user-attachments/files/28603203/QA_Mindset_Dasha_Tsion.pdf)
+📎[View Presentation](https://github.com/user-attachments/files/28603203/QA_Mindset_Dasha_Tsion.pdf)
 
 
 A reusable AI skill template for drafting practical QA test cases from product context.
